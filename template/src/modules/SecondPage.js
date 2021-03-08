@@ -9,7 +9,7 @@ const SecondPage = () => {
     return (
         <div>
             <button onClick={() => history.push('/')}>Back</button>
-            Hurryyy..!! Navigation works..!
+            <h3>Hurryyy..!! Navigation works..!</h3>
         </div>
     );
 }
